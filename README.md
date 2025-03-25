@@ -3,4 +3,4 @@ The dataset can be found at: https://www.kaggle.com/datasets/gabrieltardochi/cou
 
 Here is a video going through the code for this project:
 
-**[Project Demo]([https://drive.google.com/file/d/17vE6bbdlWE63CvdLE5w-TUDdOkaa521p/view?usp=sharing])**
+[Project Demo](https://drive.google.com/file/d/17vE6bbdlWE63CvdLE5w-TUDdOkaa521p/view?usp=sharing)
