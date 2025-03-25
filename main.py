@@ -36,6 +36,8 @@ players = players.pivot_table(
 team_1 = players[players["team"] == 1].drop(columns='team')
 team_2 = players[players["team"] == 2].drop(columns='team')
 
+players.to_csv('C:\\Users\\seb\\Documents\\CS439\\csgo_games_analysis.csv', index=False)
+
 
 # At this point we have all the stats that we want to see, and organized per player, so we can clearly compare rating vs performance
 # Heat map provides correlation between stats
