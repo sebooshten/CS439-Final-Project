@@ -1,10 +1,8 @@
 The dataset can be found at: https://www.kaggle.com/datasets/gabrieltardochi/counter-strike-global-offensive-matches?select=csgo_games.csv
 
-Best way to run this on your own is download the project zip, then simply remove the -master tag from the folder name. Ex. It might download as: "CS439_FinalProject-master.zip" , rename without the -master tag
+Best way to run this on your own is download the project zip and simply run the main.ipynb
 
-If you will be downloading the Jupyter Notebook to run the code yourself instead of just downloading this repository as a zip, keep in mind that it is reading a CSV from a folder named "CS439_FinalProject".
-So, you can either create a folder with this name to place the CSV and Jupyter Notebook file in, or change the name in read_csv('CS439_FinalProject/csgo_games.csv'), to match
-your own preference. The same applies to the creation of the updated CSV which expects to write a CSV to the same location, to_csv('CS439_FinalProject/csgo_games_analysis.csv', index=False)
+If you will be downloading the Jupyter Notebook file to run the code yourself instead of just downloading this project as a zip, just ensure that the "csgo_games" CSV is in the same folder directory as the main.ipynb
 
 Here is a video going through the code for this project:
 
